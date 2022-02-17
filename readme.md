@@ -1,5 +1,5 @@
 # Beginner Frontend developer
 
 ## Contact me
-  VK: [VK](https://vk.com/p1d3c)
-  Discord: [Discord](https://discordapp.com/users/281430043702329344/)
+  VK: [click](https://vk.com/p1d3c)  
+  Discord: [click](https://discordapp.com/users/281430043702329344/)  
