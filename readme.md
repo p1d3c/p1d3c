@@ -1,13 +1,5 @@
-# Проект "Научиться учиться"
+# Beginner Frontend developer
 
-## Описание проекта
-  Одностраничный сайт без функциональности
-
-## Автор
-  [Владислав Попов](https://vk.com/p1d3c)
-
-### Использоуемые технологии
-  Сайт создан с помошщью flexbox верстки.
-  Используемые языки:
-  * HTML
-  * CSS
+## Contact me
+  VK: [VK](https://vk.com/p1d3c)
+  Discord: [Discord](https://discordapp.com/users/281430043702329344/)
