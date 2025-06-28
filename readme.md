@@ -1,4 +1,4 @@
-# фFrontend developer
+# Frontend developer
 - Стремлюсь к профессиональному росту
 - Хочу работать над действительно интересными проектами
 - Хочу изучать новые темы и закреплять уже пройденные
@@ -15,4 +15,4 @@
 
 ## Contact me
   Discord: [click](https://discordapp.com/users/281430043702329344/)  
-  Telegram: [click](https://t.me/p1d3c
+  Telegram: [click](https://t.me/p1d3c)
